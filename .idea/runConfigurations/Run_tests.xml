@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run tests" type="ClojureTestRunConfiguration" factoryName="clojure.test">
+    <module name="graphs" />
+    <option name="options" />
+    <option name="profiles" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2" />
+  </configuration>
+</component>
