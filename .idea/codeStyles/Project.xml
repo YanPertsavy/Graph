@@ -1,7 +1,0 @@
-<component name="ProjectCodeStyleConfiguration">
-  <code_scheme name="Project" version="173">
-    <ClojureCodeStyleSettings>
-      <option name="alignBindingForms" value="true" />
-    </ClojureCodeStyleSettings>
-  </code_scheme>
-</component>
